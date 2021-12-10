@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on learning web development in depth...
+- 💬 Ask me about ANYTHING...
+- 📫 How to reach me: Email me!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love Music and I play the piano, guitar and bass.
+
 <!--
 **KarenHarley/KarenHarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
