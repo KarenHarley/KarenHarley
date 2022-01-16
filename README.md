@@ -4,7 +4,7 @@
 - 💬 Ask me about ANYTHING related to my projects or web development in general...
 - 📫 How to reach me: Email me!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love Music and I play the piano, guitar and bass.
+- ⚡ Fun fact: I love Music and therefore I play the piano, guitar and bass.
 
 <!--
 **KarenHarley/KarenHarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
