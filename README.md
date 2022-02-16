@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on continuing to learn web development in DEPTH...
 - 💬 Ask me about ANYTHING related to my projects or web development in general...
-- 📫 How to reach me: Email me!
+- 📫 How to reach me: Email me.
 - ⚡ Fun fact: I love Music and therefore I play the piano, guitar and bass.
 
 <!--
