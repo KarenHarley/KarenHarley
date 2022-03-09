@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web development in depth.
 - 💬 Ask me about ANYTHING related to my projects or web development in general...
 - 📫 How to reach me: Email me.
-- ⚡ Fun fact: I love Music and therefore I play the piano, guitar and bass.
+- ⚡ Fun fact: I love Music and Dogs
 
 <!--
 **KarenHarley/KarenHarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
