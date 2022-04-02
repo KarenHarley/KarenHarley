@@ -3,7 +3,7 @@
 - 🔭 I’m currently working several personal projects...
 - 🌱 I’m currently learning web development in depth.
 - 💬 Ask me about ANYTHING related to my projects or web development in general...
-- 📫 How to reach me: Email me.
+- 📫 How to reach me: Email me!
 - ⚡ Fun fact: I love Animals!
 
 <!--
