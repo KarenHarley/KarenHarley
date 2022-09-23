@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Karen Villagomez!
 
 - 🔭 I’m currently working several personal projects...
-- 🌱 As of now, I am continuing to learn web development in depth.
+- 🌱 As of now, I am continuing to learn programing and web development in depth.
 - 💬 Ask me about ANYTHING related to projects...
 - 📫 How to reach me: Email me!
 - ⚡ Fun fact: I love Animals!
