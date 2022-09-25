@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Karen Villagomez!
+### Hi there 👋 My name is Karen!
 
 - 🔭 I’m currently working several personal projects...
 - 🌱 As of now, I am continuing to learn programing and web development in depth.
