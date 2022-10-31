@@ -4,7 +4,7 @@
 - 🌱 As of now, I am continuing to learn programing and web development in depth.
 - 💬 Ask me about ANYTHING related to projects and coding...
 - 📫 How to reach me: Email me at karenharley88@gmail.com
-- ⚡ Fun fact: I love Animals and Music!
+- ⚡ Fun fact: I love Animals, Music and Food!
 
 <!--
 **KarenHarley/KarenHarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
