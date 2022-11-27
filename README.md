@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Karen!
 
-- Programing is one of my favorite hobbies!
+- 💻 Programing is one of my favorite hobbies!
 - 🔭 I’m currently working a few personal projects to enhance and practice my programing skills...
 - 🌱 As of now, I am continuing to learn programing and web development in depth.
 - 💬 Ask me about ANYTHING related to projects and programing in general...
