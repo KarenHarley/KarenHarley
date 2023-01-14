@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Karen!
+### Hi there 👋 My name is Karen Villagomez!
 
 - 💻 Programing is a hobby that I am very passionate about and continue to learn about!
 - 🔭 I’m currently working a few projects to enhance and practice my programing skills...
