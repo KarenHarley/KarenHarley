@@ -2,7 +2,7 @@
 
 - 💻 Programing is a hobby that I am very passionate about and am trying to continue to learn about!
 - 🔭 I’m currently working on a few projects to enhance and practice my programing skills...
-- 🌱 As of now, I am continuing to learn programing and web development in depth.
+- 🌱 As of now, I am continuing to learn javascript and java in depth.
 - 💬 Ask me about ANYTHING related to projects and programing with javascript.
 - 📫 How to reach me: Email me at: karenharley88@gmail.com
 - ⚡ Fun fact: I love Animals, Reading, Music and Food!
