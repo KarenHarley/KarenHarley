@@ -5,7 +5,7 @@
 - 🌱 As of now, I am learning the programming language Java.
 - 💬 Ask me about ANYTHING related to projects and programing with Javascript.
 - 📫 How to reach me: Email me at: karenharley88@gmail.com
-- ⚡ Fun fact: I love Animals, Reading, Music and Food!
+- ⚡ Fun fact: I love Animals, Reading, Music,Food and Sports!
 
 <!--
 **KarenHarley/KarenHarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
