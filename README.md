@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Karen Villagomez!
 
-- 💻 Programing is a hobby that I am very passionate about!
+- 💻 Programing/coding is a hobby that I am very passionate about!
 - 🔭 I’m currently working on a few projects to enhance and practice my programing skills...
 - 🌱 As of now, I am learning the programming language Java.
 - 💬 Ask me about ANYTHING related to projects and programing with Javascript.
