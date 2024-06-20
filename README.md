@@ -6,11 +6,6 @@
 - 💬 Ask me about ANYTHING related to projects and programing with Javascript.
 - 📫 How to reach me: Email me at: karenharley88@gmail.com
 
-<details open>
-  <summary>Skills</summary>
-
-</details>
-
 #### SKILLS
 ##### Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,6 +38,21 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
+
+<details open>
+  <summary><h4>GitHub Stats:<h4></summary>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=karenHarley&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=karenHarley&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+</details>
 
 <!--
 **KarenHarley/KarenHarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
