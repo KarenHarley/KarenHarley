@@ -6,7 +6,7 @@
 - 💬 Ask me about ANYTHING related to projects and programing with Javascript.
 - 📫 How to reach me: Email me at: karenharley88@gmail.com
 
-#### SKILLS
+#### SKILLS:
 ##### Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -50,7 +50,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=karenHarley&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karenHarley&show_icons=true" />
 </picture>
 </details>
 
