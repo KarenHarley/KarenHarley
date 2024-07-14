@@ -5,6 +5,7 @@
 - 🌱 As of now, I am continuing to learn programing, databases, and Linux in depth.
 - 💬 Ask me about ANYTHING related to projects and programing with Javascript.
 - 📫 How to reach me: Email me at: karenharley88@gmail.com
+- 😄 Pronouns: She/her.
 
 #### SKILLS:
 ##### Languages
@@ -40,7 +41,7 @@
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
 
 <details open>
-  <summary><h4>GitHub Stats:<h4></summary>
+  <summary><h4>My GitHub Stats:<h4></summary>
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=karenHarley&show_icons=true&theme=dark"
