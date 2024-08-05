@@ -5,7 +5,7 @@
 - 🌱 As of now, I am continuing to learn databases, and Linux in depth.
 - 💬 Ask me about ANYTHING related to projects and programing with Javascript.
 - 📫 How to reach me: Email me at: karenharley88@gmail.com
-- 😄 Pronouns: She/her.
+- 😄 Pronouns: she/her.
 
 #### SKILLS:
 ##### Languages
