@@ -5,7 +5,7 @@
 - 🌱 As of now, I am learning to use CentOS (Red Hat) Linux.
 - 💬 Ask me about ANYTHING related to projects and programing with Javascript.
 - 📫 How to reach me: Email me at: karenharley88@gmail.com
-- 😄 Pronouns: she/her.
+- 😄 Pronouns: She/Her.
 
 #### SKILLS:
 ##### Languages
