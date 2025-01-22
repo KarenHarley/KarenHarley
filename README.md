@@ -2,7 +2,7 @@
 
 - 💻 Programing/coding is a hobby that I am very passionate about!
 - 🔭 I’m currently working on a few personal projects to enhance and practice my programing skills...
-- 🌱 As of now, I am learning to use CentOS (Red Hat) Linux.
+- 🌱 As of now, I am learning to use CentOS Linux.
 - 💬 Ask me about ANYTHING related to projects and programing with Javascript.
 - 📫 How to reach me: Email me at: karenharley88@gmail.com
 - 😄 Pronouns: She/Her.
